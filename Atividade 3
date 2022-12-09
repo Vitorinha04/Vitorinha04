@@ -1,0 +1,16 @@
+Algoritmo "semnome"
+// Disciplina : [Linguagem e Lógica de Programação]
+// Professor: Antonio Carlos Nicolodi
+// Descrição : Aqui você descreve o que o programa faz! (função)
+// Autor(a) : Nome do(a) aluno(a)
+// Dados atuais: 21/11/2022
+var
+// Seção de Declarações das variáveis
+       mundo: real
+
+início
+// Seção de Comandos, procedimentos, funções, operadores, etc...
+escreval ("digite um numero")
+leia (mundo)
+esbel ("número digitado e:", mundo, "o dobro e:", mundo*2)
+espelle (" a terça parte e : " , mundo/3)
