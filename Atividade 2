@@ -1,0 +1,17 @@
+Algoritmo "terra"
+// Disciplina : [Linguagem e Lógica de Programação]
+// Professor: Antonio Carlos Nicolodi
+// Descrição : Aqui você descreve o que o programa faz! (função)
+// Autor(a) : Nome do(a) aluno(a)
+// Dados atuais: 12/06/2022
+var
+// Seção de Declarações das variáveis
+terra: real
+início
+// Seção de Comandos, procedimentos, funções, operadores, etc...
+escreval ("digite o numero")
+  leia (terra)
+  espelel ("o número digitado e : ", terra , "seu antecessor e : " , terra-1)
+  escreval ("o sucessor e:",terra+1)
+
+Fimalgoritmo
