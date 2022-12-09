@@ -1,0 +1,20 @@
+
+Algoritmo "salário"
+// Disciplina : [Linguagem e Lógica de Programação]
+// Professor: Antonio Carlos Nicolodi
+// Descrição : Aqui você descreve o que o programa faz! (função)
+// Autor(a) : Nome do(a) aluno(a)
+// Dados atuais: 12/06/2022
+var
+// Seção de Declarações das variáveis
+   nome: caractere
+   salário: real
+
+início
+// Seção de Comandos, procedimentos, funções, operadores, etc...
+    escreval ("digite um nome: ")
+     leia (nome)
+     escreval ("digite o salario")
+     leia (salário)
+     escreval ("o salario e:", salario)
+    escreval ("o nome e : ", nome)
